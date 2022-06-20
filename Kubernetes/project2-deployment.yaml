@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: project2
-          image: baronea90/dockerhub:project2-latest
+          image: zeruyang001/zerudockerhub:project2-latest
           ports:
             - containerPort: 8085
